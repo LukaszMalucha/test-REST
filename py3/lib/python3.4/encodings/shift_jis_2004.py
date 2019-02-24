@@ -1,0 +1,1 @@
+/usr/lib/python3.4/encodings/shift_jis_2004.py

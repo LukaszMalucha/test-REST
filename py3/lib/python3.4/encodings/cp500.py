@@ -1,0 +1,1 @@
+/usr/lib/python3.4/encodings/cp500.py

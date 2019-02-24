@@ -1,0 +1,1 @@
+/usr/lib/python3.4/encodings/cp1256.py
