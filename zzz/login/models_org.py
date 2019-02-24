@@ -4,7 +4,6 @@ from django.contrib.auth import AbstractBaseUser, BaseUserManager, PermissionsMi
 
 class UserManager(BaseUserManager):
     
-
     def create_user(self, email, password=None, **extra_fields):
 
         if not email:
